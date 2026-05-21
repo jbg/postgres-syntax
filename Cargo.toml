@@ -1,11 +1,11 @@
 [package]
 name = "postgres-syntax"
 version = "0.5.0"
-edition = "2021"
+edition = "2024"
 description = "Compile-time syntax checking of PostgreSQL queries"
-authors = ["Jasper Hugo <jasper@avstack.io>"]
+authors = ["Jasper Hugo <jasper@jasperhugo.com>"]
 license = "MIT/Apache-2.0"
-repository = "https://github.com/avstack/postgres-syntax"
+repository = "https://github.com/jbg/postgres-syntax"
 documentation = "https://docs.rs/postgres-syntax/"
 readme = "README.md"
 
