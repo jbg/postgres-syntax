@@ -1,6 +1,6 @@
 [package]
 name = "postgres-syntax"
-version = "0.5.0"
+version = "0.5.1"
 edition = "2024"
 description = "Compile-time syntax checking of PostgreSQL queries"
 authors = ["Jasper Hugo <jasper@jasperhugo.com>"]
